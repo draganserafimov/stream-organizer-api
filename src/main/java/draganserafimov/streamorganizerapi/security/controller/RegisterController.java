@@ -1,4 +1,4 @@
-package draganserafimov.streamorganizerapi.security.controllers;
+package draganserafimov.streamorganizerapi.security.controller;
 
 import org.springframework.web.bind.annotation.RestController;
 

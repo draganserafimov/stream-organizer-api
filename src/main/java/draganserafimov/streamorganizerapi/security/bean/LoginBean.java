@@ -1,4 +1,4 @@
-package draganserafimov.streamorganizerapi.security.beans;
+package draganserafimov.streamorganizerapi.security.bean;
 
 import javax.validation.constraints.NotBlank;
 import java.io.Serializable;
